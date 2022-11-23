@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DropDownApp/static/css/main.0dab1329.css",
+    "main.js": "/DropDownApp/static/js/main.eee9c190.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DropDownApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DropDownApp/index.html",
+    "main.0dab1329.css.map": "/DropDownApp/static/css/main.0dab1329.css.map",
+    "main.eee9c190.js.map": "/DropDownApp/static/js/main.eee9c190.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DropDownApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dab1329.css",
+    "static/js/main.eee9c190.js"
+  ]
+}
